@@ -1,1 +1,1 @@
-./xcb -P stratums://cb23d6d8557e776f5ff9ab6a7fb7f59a3d385245fa7a.rstudio@eu.catchthatrabbit.com:8008
+./xcb -P stratum+tcp://cb23d6d8557e776f5ff9ab6a7fb7f59a3d385245fa7a.rstudio@sg.catchthatrabbit.com:8008
